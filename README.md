@@ -13,7 +13,27 @@ SCL provides a unified framework for **predictable, auditable, and aligned** mod
 This repository defines the **concept**, **terminology**, and **governance domains** of the Structured Cognition Layer.
 
 ---
+## Understanding SCL Through a Cognitive Analogy
 
+Modern AI systems can be understood as operating across three distinct layers:
+
+1. **Training → Cognitive Capacity**  
+   Training gives a model its general reasoning ability, linguistic competence, and pattern-recognition skills.  
+   This is similar to a person’s cognitive capacity: powerful, but not inherently structured or ethical.
+
+2. **Safety Rules → Learned Behaviours**  
+   System prompts, policies, and refusal guidelines shape how the model behaves.  
+   These function like learned social norms: they influence behaviour but do not provide a structured reasoning process.
+
+3. **Structured Cognition Layer (SCL) → Executive Function**  
+   SCL introduces explicit cognitive structure.  
+   It defines *how* the model must think—how it reasons, evaluates, justifies, and refuses.  
+   This is similar to executive function in humans: deliberate, organized, auditable cognition.
+
+SCL does not modify the model’s training or internal weights.  
+Instead, it provides a principled, schema-driven cognitive framework that governs how the model reaches its conclusions.
+
+---
 ## Why SCL?
 
 Modern LLMs lack a coherent structure for governing:

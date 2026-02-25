@@ -57,3 +57,39 @@ A governance architecture operating within the model’s reasoning process.
 ```
 _All governance domains operate within the model’s reasoning process to
 enforce structured, predictable, and auditable behavior._
+
+---
+## Cognitive Layer Mapping (Conceptual)
+
++-------------------------------+
+|        Training Layer         |
+|  (Cognitive Capacity)         |
+|                               |
+|  • Pattern recognition        |
+|  • General reasoning ability  |
+|  • World knowledge            |
++-------------------------------+
+                |
+                v
++-------------------------------+
+|     Behaviour Layer           |
+|   (Learned Behaviours)        |
+|                               |
+|  • Safety prompts             |
+|  • Policies & refusals        |
+|  • Behavioural constraints    |
++-------------------------------+
+                |
+                v
++-------------------------------+
+| Structured Cognition Layer    |
+|       (Executive Function)    |
+|                               |
+|  • Structured reasoning        |
+|  • Cognitive schemas          |
+|  • Principled refusals        |
+|  • Auditable decision paths   |
++-------------------------------+
+
+SCL operates above behavioural rules and below agentic action,
+providing the cognitive structure that current LLMs lack.
