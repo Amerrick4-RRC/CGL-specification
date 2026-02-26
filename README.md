@@ -2,9 +2,6 @@
 Structured-Cognition-Layer specification
 *A new architectural primitive for governing LLM identity, reasoning, and ethical behavior.*
 
-## Status 
-Early stage conceptual specification for governance-architecture; not a reference implementation
-
 ### Cognitive Artifacts
 This specification is accompanied by a growing set of **cognitive-artifacts** in `/cognitive-artifacts/` that demonstrate emergent governed behaviors (e.g., jurisdiction‑aware civic reasoning). These are illustrative outputs, not product features.
 
@@ -136,7 +133,7 @@ SCL is a **governance architecture** — a conceptual layer that shapes how the 
 
 ---
 
-## Status
+## Current Status
 
 This repository defines the **conceptual specification** of the Structured Cognition Layer.  
 Implementation details are intentionally omitted.
@@ -162,4 +159,4 @@ This license does not allow:
 • 	Redistribution of altered or adapted versions
 • 	Use of SCL, Jiminy, Actor Scaffold, or Cognition Logger names in derivative frameworks or products
 All implementations of SCL—including Jiminy, Actor Scaffold, Cognition Logger, and any future modules—remain proprietary and are not covered by this license.
-For full legal text, see the  file in this repository.
+For full legal text, see the LICENSE file in this repository.
