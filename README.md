@@ -2,6 +2,12 @@
 Structured-Cognition-Layer specification
 *A new architectural primitive for governing LLM identity, reasoning, and ethical behavior.*
 
+## Status 
+Early stage conceptual specification for governance-architecture; not a reference implementation
+
+### Cognitive Artifacts
+This specification is accompanied by a growing set of **cognitive-artifacts** in `/cognitive-artifacts/` that demonstrate emergent governed behaviors (e.g., jurisdiction‑aware civic reasoning). These are illustrative outputs, not product features.
+
 ---
 
 ## Overview
