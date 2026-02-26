@@ -150,7 +150,16 @@ Future updates may include:
 
 ---
 
-## License
-
-This conceptual specification may be shared with attribution.  
-Implementations remain proprietary unless explicitly released.
+## License and Usage Rights
+The Structured Cognition Layer (SCL) Specification is licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY‑NC‑ND 4.0).
+This license allows:
+• 	Reading and referencing the specification
+• 	Citing the concepts, terminology, and architectural framing
+• 	Academic or research discussion of the ideas
+This license does not allow:
+• 	Commercial use of the specification
+• 	Derivative works, modified versions, or re‑implementations of the specification
+• 	Redistribution of altered or adapted versions
+• 	Use of SCL, Jiminy, Actor Scaffold, or Cognition Logger names in derivative frameworks or products
+All implementations of SCL—including Jiminy, Actor Scaffold, Cognition Logger, and any future modules—remain proprietary and are not covered by this license.
+For full legal text, see the  file in this repository.
