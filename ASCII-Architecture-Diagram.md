@@ -4,15 +4,15 @@ ASCII Architecture Diagram (README‑friendly)
 |                 Structured Cognition Layer (SCL)            |
 |-------------------------------------------------------------|
 |                                                             |
-|   +------------------------+   +---------------------------+ |
-|   |   Identity Governance  |   |  Cognitive Trace          | |
-|   |                        |   |      Governance           | |
-|   |------------------------|   |---------------------------| |
-|   | - Role interpretation  |   | - Decision-point traces   | |
-|   | - Identity stability   |   | - Structured reasoning    | |
-|   | - Rule adherence       |   | - Internal logic records  | |
-|   | - Operational limits   |   | - Trace artifacts         | |
-|   +------------------------+   +---------------------------+ |
+|  +------------------------+   +---------------------------+ |
+|  |   Identity Governance  |   |  Cognitive Trace          | |
+|  |                        |   |      Governance           | |
+|  |------------------------|   |---------------------------| |
+|  | - Role interpretation  |   | - Decision-point traces   | |
+|  | - Identity stability   |   | - Structured reasoning    | |
+|  | - Rule adherence       |   | - Internal logic records  | |
+|  | - Operational limits   |   | - Trace artifacts         | |
+|  +------------------------+   +---------------------------+ |
 |                                                             |
 |                     +---------------------------+           |
 |                     |     Ethical Governance    |           |
@@ -33,27 +33,27 @@ Markdown Block Diagram
 
 A governance architecture operating within the model’s reasoning process.
 ```
-┌───────────────────────────────────────────────────────────────┐
-│                 **Structured Cognition Layer (SCL)**           │
-│                                                               │
-│  ┌────────────────────────┐   ┌────────────────────────────┐  │
-│  │  **Identity Governance**│   │ **Cognitive Trace Governance**│ │
-│  │-------------------------│   │------------------------------│ │
-│  │ • Role interpretation   │   │ • Decision‑point traces      │ │
-│  │ • Identity stability    │   │ • Structured reasoning steps │ │
-│  │ • Rule adherence        │   │ • Internal logic records     │ │
-│  │ • Operational limits    │   │ • Trace artifacts            │ │
-│  └────────────────────────┘   └────────────────────────────┘  │
-│                                                               │
-│                     ┌──────────────────────────────┐         │
-│                     │      **Ethical Governance**   │         │
-│                     │------------------------------│         │
-│                     │ • Ethical constraints         │         │
-│                     │ • Safety boundaries           │         │
-│                     │ • Principled refusals         │         │
-│                     └──────────────────────────────┘         │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│                 **Structured Cognition Layer (SCL)**            │
+│                                                                 │
+│  ┌─────────────────────────┐  ┌───────────────────────────────┐ │
+│  │  **Identity Governance**│  │ **Cognitive Trace Governance**│ │
+│  │-------------------------│  │-------------------------------│ │
+│  │ • Role interpretation   │  │ • Decision‑point traces       │ │
+│  │ • Identity stability    │  │ • Structured reasoning steps  │ │
+│  │ • Rule adherence        │  │ • Internal logic records      │ │
+│  │ • Operational limits    │  │ • Trace artifacts             │ │
+│  └─────────────────────────┘  └───────────────────────────────┘ │
+│                                                                 │
+│                     ┌──────────────────────────────┐            │
+│                     │      **Ethical Governance**  │            │
+│                     │------------------------------│            │
+│                     │ • Ethical constraints        │            │
+│                     │ • Safety boundaries          │            │
+│                     │ • Principled refusals        │            │
+│                     └──────────────────────────────┘            │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 _All governance domains operate within the model’s reasoning process to
 enforce structured, predictable, and auditable behavior._
@@ -85,7 +85,7 @@ enforce structured, predictable, and auditable behavior._
 | Structured Cognition Layer    |
 |       (Executive Function)    |
 |                               |
-|  • Structured reasoning        |
+|  • Structured reasoning       |
 |  • Cognitive schemas          |
 |  • Principled refusals        |
 |  • Auditable decision paths   |
