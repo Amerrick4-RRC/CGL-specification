@@ -1,6 +1,7 @@
 # SCL-specification
 Structured-Cognition-Layer specification
 *A new architectural primitive for governing LLM identity, reasoning, and ethical behavior.*
+SCL is not a wrapper or prompt technique—it is a new paradigm for governed AI cognition, defining the constitutional layer required for structured, auditable reasoning.
 
 ### Cognitive Artifacts
 This specification is accompanied by a growing set of **cognitive-artifacts** in `/cognitive-artifacts/` that demonstrate emergent governed behaviors (e.g., jurisdiction‑aware civic reasoning). These are illustrative outputs, not product features.
@@ -15,6 +16,13 @@ SCL provides a unified framework for **predictable, auditable, and aligned** mod
 
 This repository defines the **concept**, **terminology**, and **governance domains** of the Structured Cognition Layer.
 
+For the philosophical and conceptual foundations that motivate this architecture, see the paradigm introduction in `PARADIGM.md`.
+
+---
+## Paradigm Overview  
+For the conceptual foundation and philosophical framing of SCL, see:
+
+➡️ [PARADIGM.md](./PARADIGM.md)
 ---
 ## Understanding SCL Through a Cognitive Analogy
 
@@ -35,6 +43,7 @@ Modern AI systems can be understood as operating across three distinct layers:
 
 SCL does not modify the model’s training or internal weights.  
 Instead, it provides a principled, schema-driven cognitive framework that governs how the model reaches its conclusions.
+
 
 ---
 ## Why SCL?
@@ -144,6 +153,8 @@ Future updates may include:
 - governance domain refinements  
 - terminology clarifications  
 - architectural notes  
+
+For the broader conceptual framing of SCL as a new cognitive paradigm, refer to `PARADIGM.md`.
 
 ---
 
